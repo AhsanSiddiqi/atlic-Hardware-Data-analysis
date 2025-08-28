@@ -27,11 +27,12 @@ This project showcases an **end-to-end data analysis pipeline** — starting fro
 ---
 
 ## 📷 Dashboard Preview
-*(Insert screenshot of your Power BI dashboard here)*  
+<img width="1194" height="507" alt="image" src="https://github.com/user-attachments/assets/ef2732db-bd3a-456e-9dd1-187432f78ce8" />
+  
 
 ---
 
 ## 🚀 How to Use
 1. Clone this repository:  
    ```bash
-   git clone 
+   git clone https://github.com/AhsanSiddiqi/atlic-Hardware-Data-analysis.git
